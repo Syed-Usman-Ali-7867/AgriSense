@@ -9,7 +9,7 @@ st.set_page_config(page_title="AgriSense AI", layout="centered")
 st.markdown("""
     <style>
         body {
-            background-color: #e8f5e9;
+            background-color: #37cc30;
             color: #1b5e20;
         }
         .main {
