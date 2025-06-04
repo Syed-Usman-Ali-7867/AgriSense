@@ -3,7 +3,7 @@ from PIL import Image
 import numpy as np
 from utils import predict_disease, recommend_crop
 
-st.set_page_config(page_title="AgriSense AI", layout="centered")
+st.set_page_config(page_title="AgriSense", layout="centered")
 
 # Custom CSS
 st.markdown("""
