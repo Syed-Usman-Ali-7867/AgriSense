@@ -23,7 +23,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🌿 AgriSense AI")
+st.title("🌿 AgriSense")
 st.subheader("Intelligent Agriculture Assistant")
 st.subheader("Support Smart Farming")
 
