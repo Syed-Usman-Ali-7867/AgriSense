@@ -1,7 +1,8 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-from utils import predict_disease, recommend_crop, cv2
+import cv2  # Correct place for importing OpenCV
+from utils import predict_disease, recommend_crop
 
 st.set_page_config(page_title="AgriSense AI", layout="centered")
 
