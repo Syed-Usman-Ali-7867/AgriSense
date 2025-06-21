@@ -1,6 +1,7 @@
-opencv-python-headless
 streamlit
+opencv-python-headless
+numpy
+Pillow
 ultralytics
 scikit-learn
-opencv-python
-matplotlib
+joblib
