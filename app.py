@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-from utils import predict_disease, recommend_crop
+from utils import predict_disease, recommend_crop, cv2
 
 st.set_page_config(page_title="AgriSense AI", layout="centered")
 
